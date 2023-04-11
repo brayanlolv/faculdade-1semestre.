@@ -1,0 +1,17 @@
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\bin\Debug\net6.0-windows\calculadoraMedi.exe
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\bin\Debug\net6.0-windows\calculadoraMedi.deps.json
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\bin\Debug\net6.0-windows\calculadoraMedi.runtimeconfig.json
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\bin\Debug\net6.0-windows\calculadoraMedi.dll
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\bin\Debug\net6.0-windows\calculadoraMedi.pdb
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.csproj.AssemblyReference.cache
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.Form1.resources
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.csproj.GenerateResource.cache
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.AssemblyInfoInputs.cache
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.AssemblyInfo.cs
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.csproj.CoreCompileInputs.cache
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.dll
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\refint\calculadoraMedi.dll
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.pdb
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\calculadoraMedi.genruntimeconfig.cache
+D:\faculadade\C#\calculadoraMedi\calculadoraMedi\obj\Debug\net6.0-windows\ref\calculadoraMedi.dll
